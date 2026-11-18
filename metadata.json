@@ -1,0 +1,6 @@
+{
+  "name": "PANELCO III Innova 3D Four-View",
+  "description": "Interactive 3D Toyota Innova fleet model and live orthographic Four-View inspection studio featuring official PANELCO III branding and tagline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
